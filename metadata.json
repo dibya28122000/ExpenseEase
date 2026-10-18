@@ -1,0 +1,6 @@
+{
+  "name": "ExpenseEase",
+  "description": "Personal expense management and financial tracking web application for daily spending, allowance, and protected funds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
